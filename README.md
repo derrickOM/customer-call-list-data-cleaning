@@ -22,3 +22,6 @@ This project demonstrates basic data cleaning using Python and Pandas to prepare
 
 ## Objective
 To improve data quality and prepare a structured, consistent dataset suitable for customer outreach and further analysis.
+
+## Reproducibility
+The original Customer Call List excel file has been provided for better understanding and or recreation of the project.
